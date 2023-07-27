@@ -1,5 +1,5 @@
 # chatgpt_prompt
-chatgpt prompt 按行业提示词整理
+chatgpt prompt 行业提示词整理
 
 
 1. [互联网产研chatgpt提示词](web.md)
