@@ -9,4 +9,6 @@ chatgpt prompt 按行业提示词整理
 2. [设计创意提示词](ui.md) 包含 UI UE 网页设计 创意提示词等
           
 
+
   
+[智能小助手免费使用](https://www.zilaike.com/h-col-119.html?s=github&m=1001)
