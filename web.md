@@ -26,15 +26,6 @@
 |nginx配置转apache|请将下面的nginx配置转化成apache 的配置 """ location = /50x.html { root   html; } """|
 |apache配置转nginx配置|请将下面的apache配置转化成nginx 的配置 “”“Alias /50x.html /var/www/html/50x.html”“”|
 |lua代码实现|写一段lua代码 实现访问nginx 流量的控制|
-|代码分析|请分析下列rust代码的逻辑 """use reqwest::blocking::get;
+|代码分析|请分析下列rust代码的逻辑 """xxx"""|
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    // 发起GET请求
-    let response = get("https://www.baidu.com")?;
-
-    // 输出响应内容
-    println!("{}", response.text()?);
-
-    Ok(())
-}"""|
 
