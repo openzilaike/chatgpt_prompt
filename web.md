@@ -22,4 +22,7 @@
 |代码转化器|你是一名代码开发专家，请将下来的 php代码转换成 python代码 “”“<?php $a = $a +1; echo $a; “””|
 |充当 SQL 终端|我希望您在示例数据库前充当 SQL 终端。该数据库包含名为“Products”、“Users”、“Orders”和“Suppliers”的表。我将输入查询，您将回复终端显示的内容。我希望您在单个代码块中使用查询结果表进行回复，仅此而已。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会用大括号{like this)。我的第一个命令是“SELECT TOP 10 * FROM Products ORDER BY Id DESC”|
 |生成随机数|请给我生成一个30位的随机数，要求包括数字 和大小写字母，不用代码实现直接输出|
+|yam格式生成器|请将下面的json格式的代码转化成 yaml格式,不要输出其他额外的信息。 """{"root":{"name":"mac","cpu":"8c","mem":"16G"}}"""|
+|nginx配置转apache|请将下面的nginx配置转化成apache 的配置 """ location = /50x.html { root   html; } """|
+|apache配置转nginx配置|请将下面的apache配置转化成nginx 的配置 “”“Alias /50x.html /var/www/html/50x.html”“”|
 
