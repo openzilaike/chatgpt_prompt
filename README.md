@@ -11,4 +11,4 @@ chatgpt prompt 按行业提示词整理
 
 
   
-[智能小助手免费使用](https://www.zilaike.com/h-col-119.html?s=github&m=1001)
+[Chatgpt小助手免费使用](https://www.zilaike.com/h-col-119.html?s=github&m=1001)
