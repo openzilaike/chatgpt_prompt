@@ -25,4 +25,5 @@
 |yam格式生成器|请将下面的json格式的代码转化成 yaml格式,不要输出其他额外的信息。 """{"root":{"name":"mac","cpu":"8c","mem":"16G"}}"""|
 |nginx配置转apache|请将下面的nginx配置转化成apache 的配置 """ location = /50x.html { root   html; } """|
 |apache配置转nginx配置|请将下面的apache配置转化成nginx 的配置 “”“Alias /50x.html /var/www/html/50x.html”“”|
+|lua代码实现|写一段lua代码 实现访问nginx 流量的控制|
 
