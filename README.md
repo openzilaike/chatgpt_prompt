@@ -11,5 +11,7 @@ chatgpt prompt 行业提示词整理
           
 3. [常用chatgpt提示词](common.md) 包含 日常使用提示词等
 
+4. [电子邮件营销(EDM)chatgpt提示词](edm.md) 包含 edm营销提示词模板等
+
   
-[Chatgpt免费使用](https://www.zilaike.com/h-col-119.html?s=github&m=1001)
+[Chatgpt免费下载使用](https://www.zilaike.com/h-col-119.html?s=github&m=1001)
